@@ -1,11 +1,13 @@
-### Hello there! :wave: I'm Brian :partying_face:
-I'm Brian from Taiwan, and I enjoy topics in Quantitative Finance and Data Science.
+## Hello there! :wave: I'm Brian :partying_face:
+I'm Brian from Taiwan, I enjoy topics in Quantitative Finance and Data Science, and last but not least Programming
 
 ## Skills and Experience
 * 🐍 Python
 * 📈 R
-* ➕ C++ (ocasionally😆...
+* 🖥️ C++ (occasionally😆
+* 🕸️ HTML (rarely😴
 
+<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BriAnWuu&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
