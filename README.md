@@ -1,11 +1,13 @@
 ## Hello there! :wave: I'm Brian :partying_face:
-I'm Brian from Taiwan, I enjoy topics in Quantitative Finance and Data Science, and last but not least Programming
+I'm Brian from Taiwan, I enjoy topics in Quantitative Finance and Data Science, and last but not least Programming!
 
 ## Skills and Experience
 * 🐍 Python
 * 📈 R
 * 🖥️ C++ (occasionally😆
-* 🕸️ HTML (rarely😴
+* 🕸️ HTML (rarely😴 <br />
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,cpp,html&theme=dark)](https://skillicons.dev)
 
 <br />
 
