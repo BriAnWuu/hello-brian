@@ -4,8 +4,8 @@ I'm Brian from Taiwan, I enjoy topics in Quantitative Finance and Data Science, 
 ## Skills and Experience
 * 🐍 Python
 * 📈 R
-* 🖥️ C++ (occasionally😆
-* 🕸️ HTML (rarely😴 <br />
+* 🖥️ C++
+* 🕸️ HTML<br />
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,cpp,html&theme=dark)](https://skillicons.dev)
 
