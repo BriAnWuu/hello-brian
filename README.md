@@ -8,7 +8,7 @@ I'm Brian from Taiwan, I enjoy topics in Quantitative Finance and Data Science, 
 * 🖥️ C++
 * 🕸️ HTML<br />
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,cpp,html,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,cpp,html,js,react&theme=dark)](https://skillicons.dev)
 
 <br />
 
