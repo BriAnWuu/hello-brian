@@ -1,5 +1,5 @@
 ## Hello there! :wave: I'm Brian :partying_face:
-I'm Brian from Taiwan, I enjoy topics in Quantitative Finance and Data Science, and last but not least Programming!
+I'm Brian from Taiwan, I enjoy topics in Quantitative Finance, Software Engineering, and Data Science!
 
 ## Skills and Experience
 * Javascript/Typescript
