@@ -2,6 +2,7 @@
 I'm Brian from Taiwan, I enjoy topics in Quantitative Finance and Data Science, and last but not least Programming!
 
 ## Skills and Experience
+* Javascript/Typescript
 * 🐍 Python
 * 📈 R
 * 🖥️ C++
