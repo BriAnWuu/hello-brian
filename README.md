@@ -2,11 +2,6 @@
 I'm Brian from Taiwan, I enjoy topics in Quantitative Finance, Software Engineering, and Data Science!
 
 ## Skills and Experience
-* Javascript/Typescript
-* 🐍 Python
-* 📈 R
-* 🖥️ C++
-* 🕸️ HTML<br />
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,cpp,html,js,ts,react,next&theme=dark)](https://skillicons.dev)
 
